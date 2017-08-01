@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="FCM_PREF" >vo.cv.company.myapplication.fcm_pref</string>
+    <string name="FCM_TOKEN" >vo.cv.company.myapplication.fcm_token</string>
+</resources>
